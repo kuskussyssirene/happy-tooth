@@ -1,1 +1,11 @@
-<div>Контакти:</div>
+<div>
+	<p>Контакти:</p>
+	<p>&#160;&#160; Адрес: София 1218, ж.к. Борово, ул. Подуево &#8470;10, Офис 3</p>
+	<p>&#160;&#160; Телефон: 0897 959038</p>
+	<p>&#160;&#160; E-Mail: rosi.whitefang@gmail.com</p>
+	<br/>
+	<p>А ето и как можете да стигнете до нас:</p>
+	<div id="gmap" style="width:100%; height:100%"/>
+	
+	<script type="text/javascript" src="js/contact.js"></script>
+</div>

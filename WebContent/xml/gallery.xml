@@ -1,0 +1,26 @@
+<div><p>Заповядайте в нашия кабинет: </p>
+	<div id="gallery">
+        <a href="images/gallery/IMG_2524.JPG" title="Запознайте се с вашата докторка!" class="fit">
+            <img src="images/thumbnails/IMG_2524_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2533.JPG" title="А ето и други красиви неща :)">
+            <img src="images/thumbnails/IMG_2533_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2555.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2555_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2562.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2562_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2563.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2563_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2575.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2575_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2583.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2583_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2599.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2599_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2605.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2605_t.jpg" width="100" height="100" alt="" /></a>&#160;
+        <a href="images/gallery/IMG_2676.JPG" title="Още красоти...">
+            <img src="images/thumbnails/IMG_2676_t.jpg" width="100" height="100" alt="" /></a>
+	</div>
+
+	<script type="text/javascript" src="js/gallery.js"></script>
+</div>
